@@ -15,7 +15,7 @@ LONG_DESCRIPTION = 'A package that takes the players cards and the table cards a
 setup(
     name="pokerchances",
     version=VERSION,
-    author="NeuralNine (Florian Dedov)",
+    author="Tomi Bilcu",
     author_email="<bilcutomi@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
